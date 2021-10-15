@@ -1,0 +1,28 @@
+% Mother_vessels
+5
+%Capacity  T-C rate  Fuel cons
+700        49000    0.50
+900        56000    0.58
+1100       63000    0.65
+1500       70000    0.73
+2000       73500    0.75
+% Bunker_cost_$	
+600
+% Port cost (mother vess.) in $	
+200
+% Port cost (daugh. Vess.) in $	
+100
+% Cargo handling cost in $	
+30
+% Cargo handling time	Containers/hour
+% CP
+20
+% Norwegian port
+15
+% Vessel speed (mother) in knots
+12
+% Vessel speed (daughter) in knots
+12
+%Sailing time = 	round(10 * distance_matrix[p][q] / vesselSpeed) / 10
+%Sailing cost = 	Sailing time * fuel consumption * Bunker cost
+EOF
