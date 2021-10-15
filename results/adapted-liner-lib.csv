@@ -1,0 +1,5 @@
+Instance,Size,Average,Best,Time(s),#MotherRoutes,#DaughterRoutes,%DaughterRoutes
+BALTIC, 12, 595216, 594734, 1.01, 2, 0, 0.0
+MEDIT1, 33, 942678, 909865, 10.70, 3, 4, 27.3
+MEDIT2, 32, 592531, 579556, 7.60, 1, 5, 43.8
+WAF, 20, 2766069, 2741407, 1.97, 5, 0, 0.0
